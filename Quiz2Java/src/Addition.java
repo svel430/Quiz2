@@ -1,4 +1,4 @@
 @FunctionalInterface
 public interface Addition {
-    String addNumsinRange(String num1, String num2);
+    int addNumsinRange(int num1, int num2);
 }
